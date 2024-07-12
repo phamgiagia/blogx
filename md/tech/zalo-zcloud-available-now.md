@@ -1,5 +1,4 @@
-Here's a markdown article based on the information you provided:
-
+![zalo zcloud](https://raw.githubusercontent.com/phamgiagia/blogx/main/images/zalo-zcloud.png)
 # Zalo Introduces Paid Cloud Storage Service
 
 Zalo, the popular Vietnamese messaging app, has launched a new paid cloud storage service for its users. This move marks another step in Zalo's efforts to monetize its large user base.
