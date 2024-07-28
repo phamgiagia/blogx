@@ -1,43 +1,23 @@
 {
-  "name": "Bookmark List",
-  "data": 
-    bookmarks: {
-      edges: [
-        {
-          node: {
-            id: '1',
-            title: 'Bookmark 1',
-            description: 'Description 1',
-            faviconUrl: '',
-            host: 'example.com',
-            url: 'https://example.com',
-          },
-        },
-        {
-          node: {
-            id: '2',
-            title: 'Bookmark 2',
-            description: 'Description 2',
-            faviconUrl: '',
-            host: 'example2.com',
-            url: 'https://example2.com',
-          },
-        },
-        {
-          node: {
-            id: '3',
-            title: 'Bookmark 3',
-            description: 'Description 3',
-            faviconUrl: '',
-            host: 'example3.com',
-            url: 'https://example3.com',
-          },
-        },
-      ],
-      pageInfo: {
-        endCursor: 'cursor3',
-        hasNextPage: false,
-      },
-    },
-  }
+    "name": "Bookmark List",
+    "data": {
+      "bookmarks": {
+        "edges": [
+          {
+            "node": {
+              "id": "1",
+              "title": "Bookmark 1",
+              "description": "Description 1",
+              "faviconUrl": "",
+              "host": "example.com",
+              "url": "https://example.com"
+            }
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "cursor3",
+          "hasNextPage": false
+        }
+      }
+    }
 }
