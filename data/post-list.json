@@ -1,6 +1,12 @@
 {
   "name": "Post List",
   "data": [
+      {
+      "id": "7",
+      "title": "Gitpod: Revolutionizing Development Environments in the Cloud",
+      "slug": "try-gitpod-revolutionizing-development-environments-in-the-cloud",
+      "publishedAt": "2024-07-28T07:02:00Z"
+    },
     {
       "id": "1",
       "title": "Zalo Introduces Paid Cloud Storage Service",
