@@ -1,0 +1,25 @@
+{
+  "name": "Bookmark List",
+  "data": {
+    "stacks": {
+      "edges": [
+        {
+           node: {
+          id: '1',
+          name: 'React',
+          slug: 'react',
+          description: 'A JavaScript library for building user interfaces.',
+          image:
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png',
+          url: 'https://reactjs.org',
+          tags: [{ name: 'JavaScript' }, { name: 'Library' }, { name: 'UI' }],
+        },
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "cursor3",
+        "hasNextPage": false
+      }
+    }
+  }
+}
