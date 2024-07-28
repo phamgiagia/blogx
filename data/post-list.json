@@ -1,6 +1,12 @@
 {
   "name": "Post List",
   "data": [
+       {
+      "id": "8",
+      "title": "Qwik: Revolutionizing Web Development with Instant-Loading Apps",
+      "slug": "qwik-revolutionizing-web-development-with-instant-loading-apps",
+      "publishedAt": "2024-07-28T07:59:00Z"
+    },
       {
       "id": "7",
       "title": "Gitpod: Revolutionizing Development Environments in the Cloud",
