@@ -1,4 +1,4 @@
-![Qwik](https://github.com/phamgiagia/blogx/blob/main/images/qwikjs.png)
+![Qwik](https://raw.githubusercontent.com/phamgiagia/blogx/main/images/qwikjs.png)
 
 # Qwik: Revolutionizing Web Development with Instant-Loading Apps
 
