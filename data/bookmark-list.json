@@ -6,15 +6,15 @@
         {
           "node": {
             "id": "1",
-            "title": "Fake Bookmark Title",
-            "description": "This is a description of the fake bookmark used for development.",
-            "faviconUrl": "https://example.com/favicon.ico",
-            "host": "example.com",
-            "url": "https://example.com",
+            "title": "Kickstarter",
+            "description": "Our mission is to help bring creative projects to life.",
+            "faviconUrl": "https://i.kickstarter.com/xr7jn0op-kickstarter-logo-k-green.png?fit=scale-down&origin=static&width=1000&sig=iYpB45kzR74hYqZbxK%2BkbTZr2IDTLu8ycdC%2Bdgz6CmA%3D",
+            "host": "kickstarter.com",
+            "url": "https://www.kickstarter.com/",
             "tags": [
               {
                 "id": "1",
-                "name": "Fake Tag"
+                "name": "Funding"
               }
             ]
           }
