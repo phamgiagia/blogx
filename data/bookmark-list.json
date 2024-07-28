@@ -1,23 +1,29 @@
 {
-    "name": "Bookmark List",
-    "data": {
-      "bookmarks": {
-        "edges": [
-          {
-            "node": {
-              "id": "1",
-              "title": "Bookmark 1",
-              "description": "Description 1",
-              "faviconUrl": "",
-              "host": "example.com",
-              "url": "https://example.com"
-            }
+  "name": "Bookmark List",
+  "data": {
+    "bookmarks": {
+      "edges": [
+        {
+          "node": {
+            "id": "1",
+            "title": "Fake Bookmark Title",
+            "description": "This is a description of the fake bookmark used for development.",
+            "faviconUrl": "https://example.com/favicon.ico",
+            "host": "example.com",
+            "url": "https://example.com",
+            "tags": [
+              {
+                "id": "1",
+                "name": "Fake Tag"
+              }
+            ]
           }
-        ],
-        "pageInfo": {
-          "endCursor": "cursor3",
-          "hasNextPage": false
         }
+      ],
+      "pageInfo": {
+        "endCursor": "cursor3",
+        "hasNextPage": false
       }
     }
+  }
 }
