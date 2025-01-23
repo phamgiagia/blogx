@@ -1,6 +1,12 @@
 {
   "name": "Post List",
   "data": [
+      {
+      "id": "10",
+      "title": "Test update - OpenAI Challenges Google with New SearchGPT Feature",
+      "slug": "openai-challenges-google-with-new-searchgpt-feature",
+      "publishedAt": "2024-07-28T07:59:00Z"
+    },
        {
       "id": "9",
       "title": "OpenAI Challenges Google with New SearchGPT Feature",
