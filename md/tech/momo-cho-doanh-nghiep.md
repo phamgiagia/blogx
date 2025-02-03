@@ -32,11 +32,11 @@
 | Tạo Quảng cáo                             | ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Im05LjA5IDE1LjQ5My0zLjE4LTMuMTM1YS45MDcuOTA3IDAgMCAwLTEuMjc0IDAgLjg4Ljg4IDAgMCAwIDAgMS4yNTRsMy43NTMgMy42OTdhMSAxIDAgMCAwIDEuNDA0IDBsOS41Ny05LjQyOGEuODguODggMCAwIDAgMC0xLjI1NC45MDcuOTA3IDAgMCAwLTEuMjcyIDBsLTkgOC44NjZ6IiBmaWxsPSIjNTJDNDFBIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+Cg==) |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 #### Quảng cáo khuyến mãi
-![Quảng cáo khuyến mãi](../../images/momo-cho-doanh-nghiep/quang-cao-khuyen-mai.png)
+![Quảng cáo khuyến mãi](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/quang-cao-khuyen-mai.png)
 #### Trải nghiệm khách hàng
-![Trải nghiệm khách hàng](../../images/momo-cho-doanh-nghiep/trai-nghiem-khach-hang.png)
+![Trải nghiệm khách hàng](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/trai-nghiem-khach-hang.png)
 #### Truyền thông bằng mã qr
-![Truyền thông bằng mã qr](../../images/momo-cho-doanh-nghiep/truyen-thong-qr.png)
+![Truyền thông bằng mã qr](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/truyen-thong-qr.png)
 
 
 ## Momo mini app
@@ -54,7 +54,7 @@
     - Đặt dịch vụ
     - Tiếp thị thông minh: phiếu giảm giá & trò chơi (Sắp ra mắt)
 
-![Momo mini app](../../images/momo-cho-doanh-nghiep/mini-app.png)
+![Momo mini app](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/mini-app.png)
 
 Một bước đi tham vọng của Momo khi muốn trở thành super app.
 
@@ -71,14 +71,14 @@ Một bước đi tham vọng khác của Momo, hiện không có thông tin là
 Tìm hiểu thêm thông tin chi tiết tại website [Momo trợ thủ tài chính website](https://www.momo.vn/tro-thu-tai-chinh) - Website có thể mang lại hiệu ứng chóng mặt, nhức đầu cho bạn, do sử dụng một số animation chưa tối ưu.
 
 ## Mô hình thanh toán tại Momo
-![Mô hình thanh toán tại Momo - Momo](../../images/momo-cho-doanh-nghiep/mo-hinh-thanh-toan.png)
+![Mô hình thanh toán tại Momo - Momo](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/mo-hinh-thanh-toan.png)
 
 Ý chính:
 - Hình thức mua trước trả sau thuận tiện, mở ra cơ hội bán hàng mới cho doanh nghiệp, mở rộng khả năng thanh toán
 - Hiện tại SDK của Momo đang được phát triển và chưa khả dụng.
 
 
-![Đăng ký tài khoản cho doanh nghiệp - Momo](../../images/momo-cho-doanh-nghiep/dang-ky-tai-khoan.png)
+![Đăng ký tài khoản cho doanh nghiệp - Momo](https://raw.githubusercontent.com/phamgiagia/blogx/refs/heads/main/images/momo-cho-doanh-nghiep/dang-ky-tai-khoan.png)
 ## Hướng dẫn tích hợp thanh toán Momo cho doanh nghiệp
 
 Để tích hợp dịch vụ thanh toán MoMo vào trang web của bạn, hãy làm theo các bước sau:
