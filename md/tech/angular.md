@@ -1,5 +1,5 @@
 ![angular](https://raw.githubusercontent.com/phamgiagia/blogx/main/images/angular.svg)
-# Angular: Empowering Developers to Build Fast, Reliable Web Applications.
+# Angular: Empowering Developers to Build Fast, Reliable Web Applications
 
 Angular, maintained by a dedicated team at Google, is a powerful web framework that provides developers with a comprehensive suite of tools, APIs, and libraries. It offers a solid platform for building scalable, fast, and reliable applications. Let's explore some of the key features that make Angular stand out.
 
