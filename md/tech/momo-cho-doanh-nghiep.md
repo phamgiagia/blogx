@@ -1,4 +1,4 @@
-# Momo cho doanh nghiệpx
+# Momo cho doanh nghiệp
 ## Giải pháp marketing
 
 ### Trang doanh nghiệp
@@ -8,10 +8,11 @@
 | #   | Trường hợp                                                           | Cấu trúc đề xuất                                                                                                                                                                                                                                                               |
 | --- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | Chỉ có 1 cửa hàng                                                    | Đăng ký Business Page (BP) cho chính cửa hàng đó                                                                                                                                                                                                                               |
-| 2   | Có 2 cửa hàng                                                        | Đăng ký 02 BP tương ứng cho 02 cửa hàng  <br>Có thể cấp quyền quản lý BP cho nhân viên của mỗi cửa hàng để mang đến hiệu quả tiếp cận khách hàng trong khu vực                                                                                                                 |
-| 3   | Có từ 10-20 cửa hàng hoặc các chuỗi thương hiệu lớn                  | Có 3 phương án Doanh nghiệp có thể chọn:  <br>1. Mỗi cửa hàng tương ứng với 1 BP  <br>2. Chỉ đăng ký 01 BP đại diện Thương hiệu cho toàn bộ cửa hàng  <br>3. Đăng ký 01 BP đại diện Thương hiệu và mỗi cửa hàng sẽ là 1 Info Page dưới dạng các chi nhánh được liên kết với BP |
+| 2   | Có 2 cửa hàng                                                        | Đăng ký 02 BP tương ứng cho 02 cửa hàng <br> Có thể cấp quyền quản lý BP cho nhân viên của mỗi cửa hàng để mang đến hiệu quả tiếp cận khách hàng trong khu vực                                                                                                                 |
+| 3   | Có từ 10-20 cửa hàng hoặc các chuỗi thương hiệu lớn                  | Có 3 phương án Doanh nghiệp có thể chọn: <br> 1. Mỗi cửa hàng tương ứng với 1 BP <br> 2. Chỉ đăng ký 01 BP đại diện Thương hiệu cho toàn bộ cửa hàng <br> 3. Đăng ký 01 BP đại diện Thương hiệu và mỗi cửa hàng sẽ là 1 Info Page dưới dạng các chi nhánh được liên kết với BP |
 | 4   | Xây dựng Thương hiệu                                                 | Đăng ký 1 BP đại diện cho Thương hiệu của Doanh nghiệp                                                                                                                                                                                                                         |
 | 5   | Chỉ kinh doanh dịch vụ trực tuyến không có địa điểm giao dịch vật lý | Đăng ký 1 BP tương ứng với Trang kinh doanh online trên các nền tảng mạng xã hội mà mình hiện có                                                                                                                                                                               |
+
 
 
 
