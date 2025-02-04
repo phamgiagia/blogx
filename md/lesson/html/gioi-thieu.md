@@ -58,6 +58,8 @@ Các trình duyệt web nhận tài liệu HTML từ một **web server** hoặc
 
 [Tham khảo wikipedia](https://vi.wikipedia.org/wiki/HTML)
 
+## Ví dụ:
+
 ```
 <!DOCTYPE html>
 <html>
@@ -72,3 +74,22 @@ Các trình duyệt web nhận tài liệu HTML từ một **web server** hoặc
 </body>
 </html>
 ```
+
+## Lịch sử
+Here is the translation to Vietnamese:
+
+|Năm|Phiên bản|
+|---|---|
+|1989|Tim Berners-Lee phát minh ra www|
+|1991|Tim Berners-Lee phát minh ra HTML|
+|1993|Dave Raggett soạn thảo HTML+|
+|1995|Nhóm làm việc HTML định nghĩa HTML 2.0|
+|1997|Khuyến nghị W3C: HTML 3.2|
+|1999|Khuyến nghị W3C: HTML 4.01|
+|2000|Khuyến nghị W3C: XHTML 1.0|
+|2008|Dự thảo công khai đầu tiên HTML5 của WHATWG|
+|2012|[Chuẩn sống HTML5 của WHATWG](http://whatwg.org/html/)|
+|2014|[Khuyến nghị W3C: HTML5](http://www.w3.org/TR/html5/)|
+|2016|Khuyến nghị ứng viên W3C: HTML 5.1|
+|2017|[Khuyến nghị W3C: HTML5.1 Ấn bản thứ 2](http://www.w3.org/TR/html51/)|
+|2017|[Khuyến nghị W3C: HTML5.2](http://www.w3.org/TR/html52/)|
