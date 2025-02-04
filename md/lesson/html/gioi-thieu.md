@@ -1,13 +1,62 @@
-HTML stands for **H**yper**t**ext **M**arkup **L**anguage, and it is the most widely used language to write Web Pages.
+# HTML (Hyper Text Markup Language)
 
-- **Hypertext** refers to the way in which Web pages (HTML documents) are linked together. Thus, the link available on a webpage is called Hypertext.
-    
-- As its name suggests, HTML is a **Markup Language** which means you use HTML to simply "mark-up" a text document with tags that tell a Web browser how to structure it to display.
-    
+**HTML** (viết tắt của *Hyper Text Markup Language*, hay còn gọi là "Ngôn ngữ Đánh dấu Siêu văn bản") là một ngôn ngữ đánh dấu được thiết kế để tạo nên các trang web trên *World Wide Web*. Nó có thể được trợ giúp bởi các công nghệ như **CSS** và các ngôn ngữ kịch bản giống như **JavaScript**.
 
-Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers.
+## Các phiên bản HTML
 
-Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.
+- **HTML động**
+- **HTML5**
+  - *HTML5 audio*
+  - *Canvas*
+  - *HTML5 video*
+- **XHTML**
+  - *XHTML Basic*
+  - *XHTML Mobile Profile*
+  - *I-mode*
+
+## Các phần tử HTML
+
+Các phần tử HTML là các khối xây dựng của các trang HTML. Với cấu trúc HTML, hình ảnh và các đối tượng khác như biểu mẫu tương tác có thể được nhúng vào trang được hiển thị. HTML cung cấp một phương tiện để tạo tài liệu có cấu trúc bằng cách biểu thị ngữ nghĩa cấu trúc cho văn bản như:
+
+- **Headings** (Tiêu đề)
+- **Paragraphs** (Đoạn văn)
+- **Lists** (Danh sách)
+- **Links** (Liên kết)
+- **Quotes** (Trích dẫn)
+
+Các phần tử HTML được phân định bằng các **thẻ**, được viết bằng dấu ngoặc nhọn. Ví dụ:
+
+- `<img />` và `<input />` giới thiệu trực tiếp nội dung vào trang.
+- `<p>` bao quanh và cung cấp thông tin về văn bản tài liệu và có thể bao gồm các thẻ khác làm phần tử phụ.
+
+Các trình duyệt **không hiển thị** các thẻ HTML, nhưng sử dụng chúng để diễn tả nội dung của trang.
+
+## Các công nghệ liên quan
+
+### **CSS (Cascading Style Sheets)**
+CSS giúp xác định giao diện và bố cục của nội dung HTML.
+
+### **JavaScript**
+JavaScript giúp nhúng các chương trình có thể ảnh hưởng đến hành vi và nội dung của trang web.
+
+## Các tiêu chuẩn và tổ chức
+
+- **W3C** (*World Wide Web Consortium*)  
+  - Trước đây là đơn vị bảo trì HTML.
+  - Hiện tại vẫn duy trì các tiêu chuẩn CSS.
+  - Khuyến khích sử dụng CSS trên HTML trình bày rõ ràng kể từ năm 1997.
+
+- **WHATWG** (*Web Hypertext Application Technology Working Group*)
+- **W3C Markup Validation Service**
+
+## Các trình duyệt web
+
+Các trình duyệt web nhận tài liệu HTML từ một **web server** hoặc một **kho lưu trữ cục bộ** và hiển thị tài liệu đó dưới dạng các trang web đa phương tiện. HTML mô tả **cấu trúc** của trang web về mặt ngữ nghĩa và chứa các **dấu hiệu** về cách trình bày tài liệu.
+
+---
+**Tóm lại:** HTML là nền tảng cốt lõi của web, đóng vai trò quan trọng trong việc tạo nội dung và xác định cách hiển thị thông tin trên Internet.
+
+[Tham khảo wikipedia](https://vi.wikipedia.org/wiki/HTML)
 
 ```
 <!DOCTYPE html>
