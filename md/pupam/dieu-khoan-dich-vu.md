@@ -1,63 +1,83 @@
-## Thursday, July 5, 2018
+## Friday, July 6, 2018
 
-### [Chính sách bảo mật tại pupam.com](https://policies.pupam.com/2018/07/chinh-sach-bao-mat.html)
+### Điều khoản sử dụng hệ thống quản lý dịch vụ pupam.com
 
+**1. Giới thiệu**
+
+Chào mừng quý khách hàng đến với Pupam.com.
+
+Chúng tôi là Công ty TNHH MTV Việt Nis có địa chỉ trụ sở tại 13 Lê Ngung, Phường Trần Hưng Đạo, TP Quảng Ngãi, Tỉnh Quảng Ngãi, địa chỉ giao dịch: 728-730 Võ Văn Kiệt, Phường 01, Quận 05, TPHCM, thành lập trang web bán hàng thông qua website www.Pupam.com và đã được đăng ký chính thức với Bộ Công Thương Việt Nam.
+
+Khi quý khách hàng truy cập vào trang website của chúng tôi có nghĩa là quý khách đồng ý với các điều khoản này. Trang web có quyền thay đổi, chỉnh sửa, thêm hoặc lược bỏ bất kỳ phần nào trong Điều khoản mua bán hàng hóa này, vào bất cứ lúc nào. Các thay đổi có hiệu lực ngay khi được đăng trên trang web mà không cần thông báo trước. Và khi quý khách tiếp tục sử dụng trang web, sau khi các thay đổi về Điều khoản này được đăng tải, có nghĩa là quý khách chấp nhận với những thay đổi đó.
+
+Quý khách hàng vui lòng kiểm tra thường xuyên để cập nhật những thay đổi của chúng tôi.
+
+**2. Hướng dẫn sử dụng website**
+
+Khi vào web của chúng tôi, khách hàng phải đảm bảo đủ 18 tuổi, hoặc truy cập dưới sự giám sát của cha mẹ hay người giám hộ hợp pháp. Khách hàng đảm bảo có đầy đủ hành vi dân sự để thực hiện các giao dịch mua bán hàng hóa theo quy định hiện hành của pháp luật Việt Nam.
+
+Chúng tôi sẽ cấp một tài khoản (Account) sử dụng để khách hàng có thể mua sắm trên website Pupam.com trong khuôn khổ Điều khoản và Điều kiện sử dụng đã đề ra.
+
+Quý khách hàng sẽ phải đăng ký tài khoản với thông tin xác thực về bản thân và phải cập nhật nếu có bất kỳ thay đổi nào. Mỗi người truy cập phải có trách nhiệm với mật khẩu, tài khoản và hoạt động của mình trên web. Hơn nữa, quý khách hàng phải thông báo cho chúng tôi biết khi tài khoản bị truy cập trái phép. Chúng tôi không chịu bất kỳ trách nhiệm nào, dù trực tiếp hay gián tiếp, đối với những thiệt hại hoặc mất mát gây ra do quý khách không tuân thủ quy định.
+
+Nghiêm cấm sử dụng bất kỳ phần nào của trang web này với mục đích thương mại hoặc nhân danh bất kỳ đối tác thứ ba nào nếu không được chúng tôi cho phép bằng văn bản. Nếu vi phạm bất cứ điều nào trong đây, chúng tôi sẽ hủy tài khoản của khách mà không cần báo trước.
+
+Trong suốt quá trình đăng ký, quý khách đồng ý nhận email quảng cáo từ website. Nếu không muốn tiếp tục nhận mail, quý khách có thể từ chối bằng cách nhấp vào đường link ở dưới cùng trong mọi email quảng cáo.
+
+**3. Ý kiến của khách hàng**
+
+Tất cả nội dung trang web và ý kiến phê bình của quý khách đều là tài sản của chúng tôi. Nếu chúng tôi phát hiện bất kỳ thông tin giả mạo nào, chúng tôi sẽ khóa tài khoản của quý khách ngay lập tức hoặc áp dụng các biện pháp khác theo quy định của pháp luật Việt Nam.
+
+**4. Chấp nhận đơn hàng và giá cả**
+
+Chúng tôi có quyền từ chối hoặc hủy đơn hàng của quý khách vì bất kỳ lý do gì liên quan đến lỗi kỹ thuật, hệ thống một cách khách quan vào bất kỳ lúc nào.
+
+Ngoài ra, để đảm bảo tính an toàn cho hệ thống, chúng tôi sẽ từ chối phục vụ dịch vụ cho một số vùng và lãnh thổ hoặc nghi ngờ về tính pháp lý của người mua.
+
+Chúng tôi cam kết sẽ cung cấp thông tin giá cả chính xác nhất cho người tiêu dùng. Tuy nhiên, đôi lúc vẫn có sai sót xảy ra, ví dụ như trường hợp giá sản phẩm không hiển thị chính xác trên trang web hoặc sai giá, tùy theo từng trường hợp chúng tôi sẽ liên hệ hướng dẫn hoặc thông báo hủy đơn hàng đó cho quý khách. Chúng tôi cũng có quyền từ chối hoặc hủy bỏ bất kỳ đơn hàng nào dù đơn hàng đó đã hay chưa được xác nhận hoặc đã thanh toán.
+
+**5. Thay đổi hoặc hủy bỏ giao dịch tại Pupam.com**
+
+Trong mọi trường hợp, khách hàng đều có quyền chấm dứt giao dịch nếu đã thực hiện các biện pháp sau đây:
+
+- Thông báo cho Pupam.com về việc hủy giao dịch qua đường dây nóng (hotline) 19001254 hoặc lời ghi nhắn tại [support.pupam.com](https://support.pupam.com/)
+- Trả lại hàng hoá đã nhận nhưng chưa sử dụng hoặc hưởng bất kỳ lợi ích nào từ hàng hóa đó (theo quy định của chính sách đổi trả hàng tại [support.pupam.com](https://support.pupam.com/)
+
+**6. Giải quyết hậu quả do lỗi nhập sai thông tin tại Pupam.com**
+
+Khách hàng có trách nhiệm cung cấp thông tin đầy đủ và chính xác khi tham gia giao dịch tại Pupam.com. Trong trường hợp khách hàng nhập sai thông tin và gửi vào trang TMĐT Pupam.com, Pupam.com có quyền từ chối thực hiện giao dịch. Ngoài ra, trong mọi trường hợp, khách hàng đều có quyền đơn phương chấm dứt giao dịch nếu đã thực hiện các biện pháp sau đây:
+
+- Thông báo cho Pupam.com qua đường dây nóng 19001254 hoặc lời nhập nhắn tại địa chỉ [support.pupam.com](https://support.pupam.com/)
+- Trả lại hàng hoá đã nhận nhưng chưa sử dụng hoặc hưởng bất kỳ lợi ích nào từ hàng hóa đó.
+
+Trong trường hợp sai thông tin phát sinh từ phía Pupam.com mà Pupam.com có thể chứng minh đó là lỗi của hệ thống hoặc từ bên thứ ba (sai giá sản phẩm, sai xuất xứ, …), Pupam.com sẽ đền bù cho khách hàng một mã giảm giá cho các lần mua sắm tiếp theo với mệnh giá tùy từng trường hợp cụ thể và có quyền không thực hiện giao dịch bị lỗi.
+
+**7. Thương hiệu và bản quyền**
+
+Mọi quyền sở hữu trí tuệ (đã đăng ký hoặc chưa đăng ký), nội dung thông tin và tất cả các thiết kế, văn bản, đồ họa, phần mềm, hình ảnh, video, âm nhạc, âm thanh, biên dịch phần mềm, mã nguồn và phần mềm cơ bản đều là tài sản của chúng tôi. Toàn bộ nội dung của trang web được bảo vệ bởi luật bản quyền của Việt Nam và các công ước quốc tế. Bản quyền đã được bảo lưu.
+
+**8. Quyền pháp lý**
+
+Các điều kiện, điều khoản và nội dung của trang web này được điều chỉnh bởi luật pháp Việt Nam và Tòa án có thẩm quyền tại Việt Nam sẽ giải quyết bất kỳ tranh chấp nào phát sinh từ việc sử dụng trái phép trang web này.
+
+**9. Quy định về bảo mật**
+
+Trang web của chúng tôi coi trọng việc bảo mật thông tin và sử dụng các biện pháp tốt nhất bảo vệ thông tin và việc thanh toán của quý khách. Thông tin của quý khách trong quá trình thanh toán sẽ được mã hóa để đảm bảo an toàn. Sau khi quý khách hoàn thành quá trình đặt hàng, quý khách sẽ thoát khỏi chế độ an toàn.
+
+Quý khách không được sử dụng bất kỳ chương trình, công cụ hay hình thức nào khác để can thiệp vào hệ thống hay làm thay đổi cấu trúc dữ liệu. Trang web cũng nghiêm cấm việc phát tán, truyền bá hay cổ vũ cho bất kỳ hoạt động nào nhằm can thiệp, phá hoại hay xâm nhập vào dữ liệu của hệ thống. Cá nhân hay tổ chức vi phạm sẽ bị tước bỏ mọi quyền lợi cũng như sẽ bị truy tố trước pháp luật nếu cần thiết.
+
+Mọi thông tin giao dịch sẽ được bảo mật ngoại trừ trong trường hợp cơ quan pháp luật yêu cầu.
+
+**10. Thanh toán an toàn và tiện lợi tại Pupam.com**
+
+Người mua có thể tham khảo các phương thức thanh toán sau đây và lựa chọn áp dụng phương thức phù hợp:
+
+**Cách 1**: Thanh toán chuyển khoản qua Ngân Hàng
+
+**Cách 2:** Thanh toán qua cổng thanh toán Online trong nước (Hỗ trợ thẻ Quốc Tế và Nội Địa phát hành tại Việt Nam).  
+**Cách 3:** Thanh toán qua cổng thanh toán Online nước ngoài: Paypal  
   
-  
-  
 
-# 
+**11. Luật pháp và thẩm quyền tại Lãnh thổ Việt Nam**
 
-**1. Mục đích và phạm vi thu thập**
-
-Việc thu thập dữ liệu chủ yếu trên Trang web Pupam.com bao gồm: email, điện thoại, tên đăng nhập, mật khẩu đăng nhập, địa chỉ Khách hàng. Đây là các thông tin mà Pupam.com cần Khách hàng cung cấp bắt buộc khi đăng ký sử dụng dịch vụ và Pupam sử dụng nhằm liên hệ xác nhận khi Khách hàng đăng ký sử dụng dịch vụ trên Pupam.com, đảm bảo quyền lợi cho Khách hàng.
-
-Các Khách hàng sẽ tự chịu trách nhiệm về bảo mật và lưu giữ mọi hoạt động sử dụng dịch vụ dưới tên đăng ký, mật khẩu và hộp thư điện tử của mình. Ngoài ra, Khách hàng có trách nhiệm thông báo kịp thời cho Trang web Pupam.com về những hành vi sử dụng trái phép, lạm dụng, vi phạm bảo mật, lưu giữ tên đăng ký và mật khẩu của bên thứ ba để có biện pháp giải quyết phù hợp.
-
-**2. Phạm vi sử dụng thông tin**
-
-Trang web Pupam.com sử dụng thông tin Khách hàng cung cấp để:
-
-·         Cung cấp các dịch vụ đến Khách hàng.
-
-·         Gửi các thông báo về các hoạt động trao đổi thông tin giữa Khách hàng và Trang web vn.
-
-·         Ngăn ngừa các hoạt động phá hủy tài khoản người dùng của Khách hàng hoặc các hoạt động giả mạo Khách hàng.
-
-·         Liên lạc và giải quyết với khách hàng trong những trường hợp đặc biệt.
-
-·         Không sử dụng thông tin cá nhân của Khách hàng ngoài mục đích xác nhận và liên hệ có liên quan đến giao dịch tại Pupam.com.
-
-·         Trang web vn có trách nhiệm hợp tác cung cấp thông tin cá nhân Khách hàng khi có yêu cầu từ cơ quan nhà nước có thẩm quyền.
-
-**3. Thời gian lưu trữ thông tin**
-
-Dữ liệu cá nhân của Khách hàng sẽ được lưu trữ cho đến khi có yêu cầu hủy bỏ hoặc tự Khách hàng đăng nhập và thực hiện hủy bỏ. Còn lại trong mọi trường hợp thông tin cá nhân Khách hàng sẽ được bảo mật trên máy chủ của Pupam.com.
-
-**4. Địa chỉ của đơn vị thu thập, quản lý thông tin và hỗ trợ Khách hàng**
-
-·         Công ty TNHH MTV Việt Nis
-
-·         Trụ sở chính: 13 Lê Ngung, Phường Trần Hưng Đạo, TP Quảng Ngãi, Tp Quảng Ngãi
-
-·         Địa chỉ liên hệ: 728-730 Võ Văn Kiệt, Phường 1, Quận 5, Thành phố Hồ Chí Minh.
-
-·         Hotline: 0888 728 730
-
-·         Email: support@pupam.com
-
-**5. Phương tiện và công cụ để Khách hàng tiếp cận và chỉnh sửa dữ liệu của mình**
-
-Khách hàng có quyền tự kiểm tra, cập nhật, điều chỉnh thông tin cá nhân của mình bằng cách đăng nhập vào tài khoản và chỉnh sửa thông tin cá nhân hoặc yêu cầu Pupam thực hiện việc này.
-
-Khách hàng có quyền gửi khiếu nại về việc lộ thông tin các nhân cho bên thứ ba đến Ban quản trị của Trang web Pupam.com. Khi tiếp nhận những phản hồi này, Pupam sẽ xác nhận lại thông tin, phải có trách nhiệm trả lời lý do và hướng dẫn Khách hàng khôi phục và bảo mật lại thông tin.
-
-**6. Cam kết bảo mật thông tin cá nhân Khách hàng**
-
-Thông tin cá nhân của Khách hàng trên Pupam.com được Pupam.com cam kết bảo mật tuyệt đối theo chính sách bảo vệ thông tin cá nhân của Pupam.com. Việc thu thập và sử dụng thông tin của mỗi Khách hàng chỉ được thực hiện khi có sự đồng ý của Khách hàng đó, trừ những trường hợp pháp luật có quy định khác. Pupam cam kết:
-
-·         Không sử dụng, không chuyển giao, cung cấp hay tiết lộ cho bên thứ ba nào về thông tin cá nhân của Khách hàng khi không có sự cho phép hoặc đồng ý từ Khách hàng, trừ những trường hợp pháp luật có quy định khác.
-
-·         Trong trường hợp máy chủ lưu trữ thông tin bị hacker tấn công dẫn đến mất mát dữ liệu cá nhân Khách hàng, Pupam sẽ có trách nhiệm thông báo vụ việc cho cơ quan chức năng điều tra xử lý kịp thời và thông báo cho Khách hàng được biết.
-
-·         Bảo mật tuyệt đối mọi thông tin giao dịch trực tuyến của Khách hàng bao gồm thông tin hóa đơn, chứng từ kế toán số hóa tại khu vực dữ liệu trung tâm an toàn cấp 1 của Pupam.
+Tất cả các Điều Khoản và Điều Kiện này và Hợp Đồng (và tất cả nghĩa vụ phát sinh ngoài hợp đồng hoặc có liên quan) sẽ bị chi phối và được hiểu theo luật pháp của Việt Nam. Nếu có tranh chấp phát sinh bởi các Quy định Sử dụng này, quý khách hàng có quyền gửi khiếu nại/khiếu kiện lên Tòa án có thẩm quyền tại Việt Nam để giải quyết.
